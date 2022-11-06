@@ -23,9 +23,9 @@ The images proving execution results are as follows:
 
 ## ![Screenshot of the send 10 ether as wei](Execution_Results/Send10etheraswei.png)
 
-## ![Screenshot of the withdraw 5 ether as wei](Execution_Results/Withdraw5etheraswei.png)
+## ![Screenshot of the withdraw 5 ether from account1](Execution_Results/Withdraw5ethaccount1.png)
 
-## ![Screenshot of the withdraw 10 ether as wei](Execution_Results/Withdraw10etheraswei.png)
+## ![Screenshot of the withdraw 10 ether from account2](Execution_Results/Withdraw10ethaccount2.png)
 
 ## ![Screenshot of the send lastToWithdraw](Execution_Results/lastToWithdraw.png)
 
