@@ -1,6 +1,4 @@
-# Joint Savings Account
-
-## Joint Savings Account
+# Solidity Joint Savings Account
 
 To automate the creation of joint savings accounts, I will create a solidity smart contract that accepts two user addresses that are then able to control a joint savings account. My smart contract will use ether management functions to implement various requirements from the financial institution to provide the features of the joint savings account.
 
